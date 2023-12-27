@@ -1,0 +1,30 @@
+go 1.21.4
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04conversion
+	./05mytime
+	./06pointers
+	./07arrays
+	./08slices
+	./09maps
+	./10structs
+	./11ifelse
+	./12switchcase
+	./13loops
+	./14functions
+	./15methods
+	./16defer
+	./17filesystem
+	./18webrequest
+	./19handlingurl
+	./20webrequests
+	./22modules
+	./23buildingapi
+	./24mongoapi
+	./25goroutines
+	./26raceconditions
+	./27channels
+)
